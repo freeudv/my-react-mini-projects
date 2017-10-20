@@ -1,0 +1,47 @@
+[
+  {
+    "name": "A",
+    "code": 65,
+    "sound": "clap"
+  },
+  {
+    "name": "S",
+    "code": 83,
+    "sound": "hihat"
+  },
+  {
+    "name": "D",
+    "code": 68,
+    "sound": "kick"
+  },
+  {
+    "name": "F",
+    "code": 70,
+    "sound": "openhat"
+  },
+  {
+    "name": "G",
+    "code": 71,
+    "sound": "boom"
+  },
+  {
+    "name": "H",
+    "code": 72,
+    "sound": "ride"
+  },
+  {
+    "name": "J",
+    "code": 74,
+    "sound": "snare"
+  },
+  {
+    "name": "K",
+    "code": 75,
+    "sound": "tom"
+  },
+  {
+    "name": "L",
+    "code": 76,
+    "sound": "tink"
+  }
+]
